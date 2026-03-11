@@ -44,4 +44,6 @@ I have more than 7 years of hands-on experience efficiently coding websites and 
 
 <br/>   
 
+<a href="https://info.flagcounter.com/WPGL"><img src="https://s01.flagcounter.com/countxl/WPGL/bg_0D1117/txt_FFFFFF/border_CCCCCC/columns_8/maxflags_20/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
